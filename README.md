@@ -33,17 +33,17 @@ This setup provides a clear and intuitive alert system for distance-based detect
 ### Ultrasonic Sensor (HC-SR04):
 - **VCC** → 5V  
 - **GND** → GND  
-- **TRIG** → Digital Pin 7  
-- **ECHO** → Digital Pin 6
+- **TRIG** → Digital Pin 9  
+- **ECHO** → Digital Pin 10
 
 ### LEDs:
-- **Green LED Anode** → Digital Pin 8  
-- **Yellow LED Anode** → Digital Pin 9  
-- **Red LED Anode** → Digital Pin 10  
+- **Green LED Anode** → Digital Pin 6  
+- **Yellow LED Anode** → Digital Pin 7 
+- **Red LED Anode** → Digital Pin 8  
 - **All Cathodes** → GND via 220Ω resistors
 
 ### Buzzer:
-- **Positive Lead** → Digital Pin 11  
+- **Positive Lead** → Digital Pin 5 
 - **Negative Lead** → GND
 
 ---
